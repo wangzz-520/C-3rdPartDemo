@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element>
+    <!--comment-->
+    <sub attrib="0"/>
+    <sub attrib="1"/>
+    <sub attrib="2">Text!</sub>
+    <textApproach>
+        <v>2</v>
+    </textApproach>
+</element>

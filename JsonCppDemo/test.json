@@ -1,0 +1,18 @@
+{
+   "age" : 30,
+   "classmate" : [
+      {
+         "age" : 20,
+         "name" : "lisi",
+         "sex" : "male"
+      },
+      {
+         "age" : 20,
+         "name" : "wangwu",
+         "sex" : "male"
+      }
+   ],
+   "courses" : [ "Math", "Physics", "Chemistry" ],
+   "name" : "John Doe",
+   "sex" : "male"
+}
